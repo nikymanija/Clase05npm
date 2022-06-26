@@ -1,0 +1,25 @@
+{
+  "name": "clase5_paquetesnpm",
+  "version": "1.0.0",
+  "description": "Clase npm Backend",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikymanija/Clase05npm.git"
+  },
+  "keywords": [
+    "administrador",
+    "de",
+    "paquetes",
+    "npm"
+  ],
+  "author": "Nicolas Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikymanija/Clase05npm/issues"
+  },
+  "homepage": "https://github.com/nikymanija/Clase05npm#readme"
+}
